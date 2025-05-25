@@ -1,3 +1,12 @@
-"scripts": {
-  "start": "node index.js"
+{
+  "name": "my-api",
+  "version": "1.0.0",
+  "description": "یک پروژه ساده API با Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
